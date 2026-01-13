@@ -10,7 +10,7 @@
 #define PWMB 32
 #define STBY 12
 #define KICKER_PIN 13 
-const char* ssid = "ROBOT_SOCCER_ESP32";
+const char* ssid = "CrevoBot";
 const char* password = "12345678";
 AsyncWebServer server(80);
 int motorSpeed = 200;
